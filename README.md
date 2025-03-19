@@ -97,3 +97,57 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+# Mentorship Marketplace
+
+We are building a mentorship marketplace using NestJS. This system connects experienced professionals with mentees seeking guidance in various fields, including technology, business, and digital skills.
+
+## Installation
+
+To install the project, run the following command:
+
+```bash
+$ npm install
+```
+
+## Usage
+
+To start the application, use the following command:
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
+```
+
+## Features
+
+- Connects mentors and mentees
+- User authentication and authorization
+- Real-time chat functionality
+- Scheduling and booking system for mentorship sessions
+
+## Technologies Used
+
+- NestJS
+- TypeORM
+- PostgreSQL
+- Docker (optional for deployment)
+- JWT for authentication
+
+## API Documentation
+
+The API documentation can be found in the `/docs` directory. It includes details on all available endpoints, request/response formats, and example usage.
+
+## Contributing
+
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
